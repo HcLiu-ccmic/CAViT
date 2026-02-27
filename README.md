@@ -1,1 +1,1 @@
-# Rethinking-Visual-Driven-Surgical-Image-Captioning-via-Category-Aware-Semantics
+# CAViT
